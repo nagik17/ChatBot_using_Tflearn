@@ -6,3 +6,6 @@ Web application can be built on top of it, here the main model was just potrayed
 
 Main packages used here:
 Tflearn, Pandas, Numpy, Tensorflow
+
+![Capture](https://github.com/nagik17/ChatBot_using_Tflearn/blob/main/Capture.JPG)
+
